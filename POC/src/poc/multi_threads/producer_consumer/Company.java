@@ -1,4 +1,4 @@
-package poc.multi_threads;
+package poc.multi_threads.producer_consumer;
 
 public class Company {
 

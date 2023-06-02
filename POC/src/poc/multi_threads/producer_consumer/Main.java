@@ -1,6 +1,4 @@
-package poc.multi_threads;
-
-import java.util.concurrent.ConcurrentMap;
+package poc.multi_threads.producer_consumer;
 
 public class Main {
     public static void main(String[] args) {
