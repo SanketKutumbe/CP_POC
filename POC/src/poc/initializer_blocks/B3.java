@@ -2,7 +2,7 @@ package poc.initializer_blocks;
 
 class A{
     A(){
-        System.out.println("parent class constructor invoked");
+        System.out.println("parent class constructor invoked, by Ojas");
     }
 }
 
